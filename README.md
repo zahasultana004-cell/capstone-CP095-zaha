@@ -41,8 +41,10 @@ Bug status updated to REOPENED
 Reopened: 1 times
 
 --- MODULE WITH MOST BUGS ---
-Login : 2
+Bug counts by module:
+Login : 1
 Payment : 1
 
 Module(s) with most bugs:
-Login - 2 bugs
+Login - 1 bugs
+Payment - 1 bugs
