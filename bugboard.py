@@ -219,3 +219,6 @@ while True:
 
     else:
         print("Invalid choice! Please enter a number from 1 to 8.")
+        
+    input("\nPress Enter to return to the menu...")
+
