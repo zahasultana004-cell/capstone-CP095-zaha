@@ -218,4 +218,4 @@ while True:
         break
 
     else:
-        print("Feature not added yet.")
+        print("Invalid choice! Please enter a number from 1 to 8.")
