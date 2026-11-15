@@ -43,8 +43,6 @@ while True:
                 "developer": "Unassigned",
                 "status": "NEW",
                 "reopen_count": 0,
-                "status": "NEW",
-                "reopen_count": 0,
                 "created_at": datetime.now()
             }
 
